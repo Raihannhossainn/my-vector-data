@@ -1,0 +1,10 @@
+{
+  "admin@example.com": {
+    "password": "yourpassword",
+    "role": "admin",
+    "status": "active",
+    "expiry_date": "2030-12-31",
+    "session_limit": 5,
+    "sessions": {}
+  }
+}
