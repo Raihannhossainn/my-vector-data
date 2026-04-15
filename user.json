@@ -1,0 +1,11 @@
+{
+  "email": "raihan@gmail.com",
+  "status": "active",
+  "role": "admin",
+  "expiry_date": "2030-12-31",
+  "model_access": ["gemini-1.5-pro", "gemini-1.5-flash"],
+  "media_access": true,
+  "auto_pilot": true,
+  "message_limit": 1000,
+  "system_settings": {}
+}
